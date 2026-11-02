@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm DaaKamalakar! 👋
 
-<!--
-**danakamalakar-t/danakamalakar-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevOps & DevSecOps Engineer
 
-Here are some ideas to get you started:
+I am learning and building practical skills in Cloud Computing, DevOps and DevSecOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Technical Learning Areas
+
+- ☁️ AWS Cloud
+- 🐳 Docker & Kubernetes
+- ⚙️ Terraform
+- 🐧 Linux & Shell Scripting
+- 🔧 Ansible
+- 🔄 CI/CD Automation
+- 🔐 DevSecOps
+
+### 🛠️ My Current Focus
+
+- Building AWS infrastructure using Terraform.
+- Containerizing applications using Docker.
+- Learning Kubernetes.
+- Automating deployments using GitHub Actions.
+- Practising cloud security.
+
+### 🎯 My Community Goals
+
+- AWS Community Builder
+- Docker Captain
+
+### 📚 My Learning Philosophy
+
+Learn by doing. Build practical projects. Share knowledge. Help others.
+
+### 🤝 Let's Connect
+
+I welcome opportunities to connect with AWS, Docker and DevOps communities.
+
+**Learning in Public | Growing Every Day 🚀**
