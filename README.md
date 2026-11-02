@@ -1,4 +1,4 @@
-# Hi, I'm DaaKamalakar! 👋
+# Hi, I'm DanaKamalakar! 👋
 
 ### Aspiring DevOps & DevSecOps Engineer
 
